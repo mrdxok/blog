@@ -1,1 +1,1 @@
-# static_site
+# blog
